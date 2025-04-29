@@ -1,4 +1,16 @@
-# portfolio
-This site was inspired by the design and structure of Keita Yamada portfolio. I really appreciate their work and used some of the elements as inspiration for my own project. The code and content were hand-written, reflecting my own style and ideas.
-The goal is to learn, develop skills, and create my own unique presentation.
-link to [Keita Yamada portfolio](https://p5aholic.me/)
+# Artem qwnts Portfolio
+
+Welcome to my personal portfolio project — **Artem qwnts**.
+
+This site was inspired by the elegant design and thoughtful structure of [Keita Yamada's portfolio](https://p5aholic.me/).  
+I deeply admire their work and drew inspiration from certain design elements and layout choices to craft my own vision.
+
+All code and content are hand-written, showcasing my personal style, creativity, and technical growth.  
+This project serves as a space to **experiment**, **learn**, and **refine** my skills as I develop my own unique web presence.
+
+---
+
+## 🌟 Inspiration
+
+- [Keita Yamada's Portfolio](https://p5aholic.me/)
+- [Keita Yamada on GitHub](https://github.com/p5aholic)
